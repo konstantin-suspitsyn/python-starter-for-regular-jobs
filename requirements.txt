@@ -1,0 +1,12 @@
+greenlet==1.1.2
+hdbcli==2.12.20
+numpy==1.22.3
+pandas==1.4.2
+psycopg2==2.9.3
+python-dateutil==2.8.2
+pytz==2022.1
+PyYAML==6.0
+six==1.16.0
+SQLAlchemy==1.4.35
+sqlalchemy-hana==0.5.0
+requests~=2.27.1

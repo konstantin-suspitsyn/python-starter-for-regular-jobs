@@ -1,0 +1,12 @@
+# Скопировать этот файл в эту же папку из назвать settings.yml
+
+# DB GP settings
+# Username and password in ../passwords/passwords.yml
+db_gp: "adb"
+host_gp: "c-c9q63ep66u0j1lf92cop.rw.mdb.yandexcloud.net"
+port_gp: 5432
+
+# DB BW settings
+# Username and password in ../passwords/passwords.yml
+host_bw: "hdb-bwp15"
+port_bw: 33015
